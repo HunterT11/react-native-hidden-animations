@@ -9,6 +9,10 @@
     "start": "react-native start",
     "test": "jest"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HunterT11/react-native-hidden-animations"
+  },
   "dependencies": {
     "react": "18.2.0",
     "react-native": "0.72.0",
